@@ -2,6 +2,5 @@
  
  This is Work in Progress.
   
-[GITHUB](/howtobasic%20-%20how%20to%20create%20a%20fraytools%20plugin/mySecondMarkdownFile.md)
-<br>
-[Fraymakers](https://store.steampowered.com/app/1420350/Fraymakers/)
+* [Creating Your First Plugin](/howtobasic%20-%20how%20to%20create%20a%20fraytools%20plugin/mySecondMarkdownFile.md)
+
