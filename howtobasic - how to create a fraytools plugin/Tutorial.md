@@ -41,4 +41,9 @@ There are four plugin types natively supported by Fraytools:
 ### 4. In the terminal, run the command `npm install`.
 ![image](https://github.com/user-attachments/assets/931b0788-6b48-451d-822c-33e27e467418)
 
+If there appears to be vulnerablilities, run the command `npm audit fix`.
+![image](https://github.com/user-attachments/assets/49a6c1a3-424f-41a9-a7fe-81f5eb95906a)
+
+
+
 
