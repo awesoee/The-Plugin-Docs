@@ -9,10 +9,10 @@ Here are a couple resources to learn more:
 
 ## There are four plugin types natively supported by Fraytools:
 
-**Metadata Plugins** - Add custom buttons and fields to the Properties panel
-**Publish Plugins** - Create your own UI for exporting/publishing Fraytools projects
-**Types Plugins** - Create custom type definitions
-**Script Asset Plugins** - Add additional pages to the script editor
+**Metadata Plugins** - Add custom buttons and fields to the Properties panel <br/>
+**Publish Plugins** - Create your own UI for exporting/publishing Fraytools projects <br/>
+**Types Plugins** - Create custom type definitions <br/>
+**Script Asset Plugins** - Add additional pages to the script editor <br/>
 
 # Setting Up
 
