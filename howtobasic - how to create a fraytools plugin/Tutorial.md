@@ -55,6 +55,7 @@ If it's successful, you should see something like this, as well as a new folder 
 
 ### 6. Locate your newly created plugin inside the `dist` folder, and move it to /FraytoolsData/plugins.
 Your directory should look something like this:
+
 ![image](https://github.com/user-attachments/assets/ea7999db-77b2-4f5c-aca4-fb664371ed75)
 
 ![image](https://github.com/user-attachments/assets/d510028e-5e97-4dfc-9ca0-b935b7e692fa)
