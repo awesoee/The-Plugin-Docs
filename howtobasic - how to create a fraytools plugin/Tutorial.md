@@ -20,6 +20,8 @@ There are four plugin types natively supported by Fraytools:
 - Install the latest LTS version of [Node.js.](https://nodejs.org/en/)
 - Download one of my [upgraded example plugins.](https://github.com/awesoee/ts-types-plugin-example/tree/main)
 
+<br/>
+
 ### 1. Open Visual Studio Code and click Open Folder.
 
   ![image](https://github.com/user-attachments/assets/06d5a406-71b9-4585-8ac2-1152dc9c4666)
@@ -28,5 +30,15 @@ There are four plugin types natively supported by Fraytools:
 
 ### 2. Find your example plugin and click Select Folder.
 ![image](https://github.com/user-attachments/assets/0ef470f2-e41b-4174-9bd2-2f45122bcf5b)
+
+<br/>
+
+### 3. Click the Terminal tab on the top bar, then click New Terminal.
+![image](https://github.com/user-attachments/assets/99754640-b636-48c4-b735-af0bf5e9a7d9)
+
+<br/>
+
+### 4. In the terminal, run the command `npm install`.
+![image](https://github.com/user-attachments/assets/931b0788-6b48-451d-822c-33e27e467418)
 
 
