@@ -10,8 +10,8 @@ Here are a couple resources to learn more:
 
 
 <br/>
-__There are four plugin types natively supported by Fraytools:__
-
+There are four plugin types natively supported by Fraytools:
+<br/>
 **Metadata Plugins** - Add custom buttons and fields to the Properties panel <br/>
 **Publish Plugins** - Create your own UI for exporting/publishing Fraytools projects <br/>
 **Types Plugins** - Create custom type definitions <br/>
