@@ -60,4 +60,15 @@ Your directory should look something like this:
 
 ![image](https://github.com/user-attachments/assets/d510028e-5e97-4dfc-9ca0-b935b7e692fa)
 
+<br/>
+
+### 7. Open Fraytools, then navigate to Plugins > Plugin Manager.
+![image](https://github.com/user-attachments/assets/d730d536-297c-482d-94b0-1130152bda36)
+
+<br/>
+
+### 8. Enable your new plugin.
+![image](https://github.com/user-attachments/assets/a8c6b017-c646-4865-9fdc-9da080ddc5eb)
+
+You will see another
 
