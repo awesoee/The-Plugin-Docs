@@ -20,9 +20,9 @@ There are four plugin types natively supported by Fraytools:
 - Install the latest LTS version of [Node.js](https://nodejs.org/en/).
 - Download one of my [upgraded example plugins](https://github.com/awesoee/ts-types-plugin-example/tree/main).
 
-Open Visual Studio Code and click Open Folder.
+### Open Visual Studio Code and click Open Folder.
 
-![image](https://github.com/user-attachments/assets/06d5a406-71b9-4585-8ac2-1152dc9c4666)
+  ![image](https://github.com/user-attachments/assets/06d5a406-71b9-4585-8ac2-1152dc9c4666)
 
 <br/>
 
