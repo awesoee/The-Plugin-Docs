@@ -70,5 +70,7 @@ Your directory should look something like this:
 ### 8. Enable your new plugin.
 ![image](https://github.com/user-attachments/assets/a8c6b017-c646-4865-9fdc-9da080ddc5eb)
 
-You will see another
+Tada!!! You created your first plugin. You'll see that your plugin has its own config menu in the Plugin Settings section.
+![image](https://github.com/user-attachments/assets/5299b725-225d-478c-9bcd-302d039024f0)
+
 
