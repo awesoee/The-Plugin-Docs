@@ -7,6 +7,8 @@ Here are a couple resources to learn more:
 - [React Tutorial](https://react.dev/learn)
 - [React References](https://react.dev/reference/react#)
 
+
+
 There are four plugin types natively supported by Fraytools:
 
 **Metadata Plugins** - Add custom buttons and fields to the Properties panel <br/>
