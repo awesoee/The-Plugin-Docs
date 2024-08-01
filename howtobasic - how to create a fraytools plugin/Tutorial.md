@@ -44,6 +44,19 @@ There are four plugin types natively supported by Fraytools:
 If there appears to be vulnerablilities, run the command `npm audit fix`.
 ![image](https://github.com/user-attachments/assets/49a6c1a3-424f-41a9-a7fe-81f5eb95906a)
 
+<br/>
 
+### 5. Create a build of your plugin by running the command `npm run build`.
+
+If it's successful, you should see something like this, as well as a new folder inside `dist`:
+![image](https://github.com/user-attachments/assets/975ecc9d-881f-4b8c-945a-f1f4eb1239b9)
+
+<br/>
+
+### 6. Locate your newly created plugin inside the `dist` folder, and move it to /FraytoolsData/plugins.
+Your directory should look something like this:
+![image](https://github.com/user-attachments/assets/ea7999db-77b2-4f5c-aca4-fb664371ed75)
+
+![image](https://github.com/user-attachments/assets/d510028e-5e97-4dfc-9ca0-b935b7e692fa)
 
 
