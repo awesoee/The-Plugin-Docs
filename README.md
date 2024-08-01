@@ -7,13 +7,11 @@
 * [SOON] Updating your MANIFEST.JSON + Customizing your Config menu
 
   <br/>
-  
   ### Indermediate Guides
 * aa
-
 <br/>
 
   ### Advanced Guides
-* 
+* aa
 
 
