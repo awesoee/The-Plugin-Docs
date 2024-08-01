@@ -1,4 +1,4 @@
-# Documentation Of Everything I Know About Plugins
+# The Plugin Docs
 
   ## _Beginner Tutorials_
 * [Creating your first plugin](/howtobasic%20-%20how%20to%20create%20a%20fraytools%20plugin/mySecondMarkdownFile.md)
