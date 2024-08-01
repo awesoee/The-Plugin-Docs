@@ -9,7 +9,8 @@ Here are a couple resources to learn more:
 
 
 
-There are four plugin types natively supported by Fraytools:
+<br/>
+__There are four plugin types natively supported by Fraytools:__
 
 **Metadata Plugins** - Add custom buttons and fields to the Properties panel <br/>
 **Publish Plugins** - Create your own UI for exporting/publishing Fraytools projects <br/>
@@ -20,5 +21,4 @@ There are four plugin types natively supported by Fraytools:
 
 - You will need an IDE (Integrated Development Environment, basically code editor) to create plugins. I reccommend [Visual Studio Code](https://code.visualstudio.com/).
 - Install the latest LTS version of [Node.js](https://nodejs.org/en/).
-- Install one of my [upgraded example plugins](https://github.com/awesoee/ts-types-plugin-example/tree/main)
-Go ahead and download one of my example plugins
+- Download one of my [upgraded example plugins](https://github.com/awesoee/ts-types-plugin-example/tree/main)
