@@ -3,8 +3,8 @@
 | Function Name | Description |
 | --------------------- | --------------------------------- |
 | log(level: string, ...args):void |    Function for sending log messages back to the parent. <br/> <br/> **@param level** Log level (log, info, warn, error, or debug) <br/> **@param args** Arguments to pass to the log function. |
-| configMetadataSync(configMetadata: [IPluginConfig](/Documentation/Interfaces/IPluginConfig.md) | Informs the parent window to sync and persist the specified config metadata. <br/> <br/> **@param pluginType** The type of plugin. <br/> **@param configMetadata** The metadata to sync. |
-| assetMetadataSync(assetMetadata: [ILibraryAssetMetadata](/Documentation/Interfaces/ILibraryAssetMetadata.md) | Informs the parent window to sync and persist the specified asset metadata. <br/> <br/> **@param pluginType** The type of plugin. <br/> **@param configMetadata** The metadata to sync. |
+| configMetadataSync(configMetadata: [IPluginConfig](/Documentation/Interfaces/IPluginConfig.md)) | Informs the parent window to sync and persist the specified config metadata. <br/> <br/> **@param pluginType** The type of plugin. <br/> **@param configMetadata** The metadata to sync. |
+| assetMetadataSync(assetMetadata: [ILibraryAssetMetadata](/Documentation/Interfaces/ILibraryAssetMetadata.md)) | Informs the parent window to sync and persist the specified asset metadata. <br/> <br/> **@param pluginType** The type of plugin. <br/> **@param configMetadata** The metadata to sync. |
 | sendready() | Informs the parent window that the plugin is mounted. |
 | sendTypeDefinitions(typeFilesData: [ITypeDefinitionFile[]](/Documentation/Interfaces/ITypeDefinitionFile.md)) | |
 | sendMetadataDefinitions(metadataDefinitions: [IMetadataDefinition[]](/Documentation/MetadataPlugin/IMetadataDefinition.md)) | |
