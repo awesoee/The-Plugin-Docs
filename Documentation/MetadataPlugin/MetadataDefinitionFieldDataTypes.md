@@ -1,46 +1,46 @@
 ## IMetadataDefinitionBooleanFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
-| type | `'BOOLEAN'` | |
+| type | `'BOOLEAN'` | ![image](https://github.com/user-attachments/assets/91a4d94b-f104-4801-9950-812fa5f37d0e) |
 | defaultValue | boolean | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionColorFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'COLOR'` | |
 | defaultValue | string | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionIntegerFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'INTEGER'` | |
 | defaultValue | number | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionFloatFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'FLOAT'` | |
 | defaultValue | number | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionTextFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'TEXT'` | |
 | defaultValue | string | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionTextareaFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'TEXTAREA'` | |
 | defaultValue | string | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionTagsFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'TAGS'` | |
 | defaultValue | string[] | |
 
-## IMetadataDefinitionBooleanFieldData
+## IMetadataDefinitionDropdownFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
 | type | `'DROPDOWN'` |
