@@ -1,4 +1,4 @@
-**_Interface describing type definition file data._**
+**_Interface describing type definition file data_**
 
 ## Properties
 
