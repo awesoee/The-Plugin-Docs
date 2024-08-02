@@ -1,7 +1,7 @@
 # FrayTools Plugin Core Documentation
 
 ## Metadata
-  - [IMetadataDefinition](/Interfaces/IMetadataDefinition.md)
+  - [IMetadataDefinition](/Documentation/Interfaces/IMetadataDefinition.md)
 ## Script Asset
 ## Publish
 ## Types
