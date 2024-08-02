@@ -14,3 +14,5 @@
 ### Script Asset
 ### Publish
 ### Types
+### Layers
+  - [ILayer]
