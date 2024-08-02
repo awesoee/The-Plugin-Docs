@@ -2,6 +2,6 @@
 
 | Prop Name | Type | Description |
 | --------------------- | ------ | ------------------- |
-| metadataOwnerTypes | `MetadataOwnerTypes[]` | TODO: Create visuals for each metadataownertype |
+| metadataOwnerTypes | `[MetadataOwnerTypes[]](/The%20Plugin%20Core/Metadata Plugin/MetadataOwnerTypes[].md)` | |
 | fields | `MetadataDefinitionFieldDataTypes[]` | Same with these |
 | effects | `IMetadataDefinitionEffect[]` |  |
