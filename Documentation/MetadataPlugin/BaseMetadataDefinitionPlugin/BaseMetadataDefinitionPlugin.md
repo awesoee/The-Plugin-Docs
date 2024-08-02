@@ -1,4 +1,4 @@
-**This class is an extension of [IMetadataDefinitionPluginProps](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginProps.md) and [IMetadataDefinitionPluginState](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginState.md)**
+**This class is an extension of [IMetadataDefinitionPluginProps](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginProps.md) and [IMetadataDefinitionPluginState.](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginState.md)**
 
 <br/>
 
