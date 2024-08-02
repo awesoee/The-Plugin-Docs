@@ -74,6 +74,7 @@ Tadaaaa!!! You created your first plugin. You'll see that your plugin has its ow
 ![image](https://github.com/user-attachments/assets/5299b725-225d-478c-9bcd-302d039024f0)
 It doesn't have any function at its current state. The next page will teach you how to customize and make it look prettier.
 
+<br/>
 
-[Next Guide: Updating your Manifest JSON + Config menu](
+[Next Guide: Updating your Manifest JSON + Config menu](/Tutorials/ManifestJSONGuide.md)
 

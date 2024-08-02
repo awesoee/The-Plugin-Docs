@@ -1,7 +1,7 @@
 # The Plugin Docs
 
   ## _Beginner Tutorials_
-* [Creating your first plugin](/howtobasic%20-%20how%20to%20create%20a%20fraytools%20plugin/Tutorial.md)
+* [Creating your first plugin](/Tutorials/Tutorial.md)
 * [SOON] Updating your MANIFEST.JSON + Customizing your Config menu
 * [SOON] The Four Plugin Types
 
