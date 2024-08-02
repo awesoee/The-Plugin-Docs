@@ -1,4 +1,4 @@
-Base interface for plugin configuration data (i.e. plugin metadata)
+**Base interface for plugin configuration data (i.e. plugin metadata)**
 
 ## Properties
 
