@@ -8,8 +8,11 @@
 | export | boolean | Whether or not it can be exported(?) |
 | tags | string[] | Asset tags, if any |
 | plugins | string[] | Manifest.JSON `id` of plugins affecting the asset. |
-| pluginMetadata | {[pluginKey:string]: any} | Plugin metadata affecting the asset (ex. Object Type) |
+| pluginMetadata | {[pluginKey:string]: any} | Plugin metadata affecting the asset (ex. Palette Map, Object Type) |
 
-![image](https://github.com/user-attachments/assets/c0a618c1-f2ec-4abb-b7be-464ca1b02171)
+<br/>
+
+![image](https://github.com/user-attachments/assets/49874657-258e-4d0f-a8dc-fae3dcbaf357)
+
 
 
