@@ -15,4 +15,14 @@
 ### Publish
 ### Types
 ### Layers
-  - [ILayer]
+  - [ICollisionBodyLayer](/Documentation/Interfaces/ICollisionBodyLayer.md)
+  - [ICollisionBoxLayer](/Documentation/Interfaces/ICollisionBoxLayer.md)
+  - [IContainerLayer](/Documentation/Interfaces/IContainerLayer.md)
+  - [IFrameScriptLayer](/Documentation/Interfaces/IFrameScriptLayer.md)
+  - [IImageLayer](/Documentation/Interfaces/IImageLayer.md)
+  - [ILabelLayer](/Documentation/Interfaces/ILabelLayer.md)
+  - [ILayer](/Documentation/Interfaces/ILayer.md)
+  - [ILineSegmentLayer](/Documentation/Interfaces/ILineSegmentLayer.md)
+  - [IPointLayer](/Documentation/Interfaces/IPointLayer.md)
+  - [IPolygonLayer](/Documentation/Interfaces/IPolygonLayer.md)
+  - [ITileMapLayer](/Documentation/Interfaces/ITileMapLayer.md)
