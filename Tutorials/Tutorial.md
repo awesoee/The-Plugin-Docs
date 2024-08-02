@@ -54,7 +54,7 @@ If it's successful, you should see something like this, as well as a new folder 
 <br/>
 
 ### 6. Locate your newly created plugin inside the `dist` folder, and move it to /FraytoolsData/plugins.
-Your directory should look something like this:
+The directory should look something like this:
 
 ![image](https://github.com/user-attachments/assets/ea7999db-77b2-4f5c-aca4-fb664371ed75)
 
@@ -72,9 +72,9 @@ Your directory should look something like this:
 
 Tadaaaa!!! You created your first plugin. You'll see that your plugin has its own config menu in the Plugin Settings section.
 ![image](https://github.com/user-attachments/assets/5299b725-225d-478c-9bcd-302d039024f0)
-It doesn't have any function at its current state. The next page will teach you how to customize and make it look prettier.
+It doesn't have any function at its current state. The next page will teach you how to customize and make it less ugly.
 
 <br/>
 
-[Next Guide: Updating your Manifest JSON + Config menu](/Tutorials/ManifestJSONGuide.md)
+### [Next Guide: Updating your Manifest JSON + Config menu](/Tutorials/ManifestJSONGuide.md)
 
