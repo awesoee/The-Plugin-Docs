@@ -1,4 +1,4 @@
-**IMetadataDefinitionDropdownFieldDataOptions<<T>>**
+**IMetadataDefinitionDropdownFieldDataOptions<T<T>>**
 
 ## Properties
 
