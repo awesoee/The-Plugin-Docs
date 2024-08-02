@@ -8,7 +8,7 @@
 | sendready() | Informs the parent window that the plugin is mounted. |
 | sendTypeDefinitions(typeFilesData: [ITypeDefinitionFile[]](/Documentation/Interfaces/ITypeDefinitionFile.md)) | |
 | sendMetadataDefinitions(metadataDefinitions: [IMetadataDefinition[]](/Documentation/MetadataPlugin/IMetadataDefinition.md)) | |
-| sendAssetMetadataMigrations(assetMetadata: [ILibraryAssetMetadata](/Documentation/Interfaces/ILibraryAssetMetadata.md) | |
+| sendAssetMetadataMigrations(assetMetadata: [ILibraryAssetMetadata](/Documentation/Interfaces/ILibraryAssetMetadata.md)) | |
 | sendPublishStart() | |
 | sendPublishEnd(files: PublishPluginMessageDataFilesMap) | |
 | sendPublishError(message: string) | |
