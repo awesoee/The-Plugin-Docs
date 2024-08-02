@@ -1,6 +1,6 @@
 # FrayTools Plugin Core Documentation
 
-## Metadata
+### Metadata
   - [IMetadataConditional](/Documentation/MetadataPlugin/IMetadataConditional.md)
   - [IMetadataDefinition](/Documentation/MetadataPlugin/IMetadataDefinition.md)
   - [IMetadataDefinitionDropdownFieldDataOptions](/Documentation/MetadataPlugin/IMetadataDefinitionDropdownFieldDataOptions.md)
@@ -8,6 +8,6 @@
   - [IMetadataDefinitionFieldData](/Documentation/MetadataPlugin/IMetadataDefinitionFieldData.md)
   - [MetadataDefinitionFieldDataTypes](/Documentation/MetadataPlugin/MetadataDefinitionFieldDataTypes.md)
   - [MetadataOwnerTypes](/Documentation/MetadataPlugin/MetadataOwnerTypes.md)
-## Script Asset
-## Publish
-## Types
+### Script Asset
+### Publish
+### Types
