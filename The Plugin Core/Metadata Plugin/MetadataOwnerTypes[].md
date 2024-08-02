@@ -1,0 +1,7 @@
+## AssetMetadataOwnerTypes
+
+## SpriteAnimationMetadataOwnerTypes
+
+## LayerMetadataOwnerTypes
+
+## KeyframeMetadataOwnerTypes
