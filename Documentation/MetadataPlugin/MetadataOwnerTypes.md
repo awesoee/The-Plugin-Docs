@@ -1,9 +1,10 @@
 ## AssetMetadataOwnerTypes
 `'SPRITE_ENTITY_ASSET_METADATA'` | `'SCRIPT_ASSET_METADATA'` | `'BINARY_ASSET_METADATA'` | `'NINE_SLICE_ASSET_METADATA'` | `'AUDIO_ASSET_METADATA'` | `'IMAGE_ASSET_METADATA'` | `'PALETTE_COLLECTION_METADATA'`
 ## SpriteAnimationMetadataOwnerTypes
-`'SPRITE_ANIMATION_METADATA'`
+|--------------|----------|
+|`'SPRITE_ANIMATION_METADATA'`|![image](https://github.com/user-attachments/assets/9e07f26a-6e67-444d-83d2-3d02886f2b97)|
 
-![image](https://github.com/user-attachments/assets/7393edcf-aba5-4711-a08b-c9f656692e17)
+
 
 
 ## LayerMetadataOwnerTypes
