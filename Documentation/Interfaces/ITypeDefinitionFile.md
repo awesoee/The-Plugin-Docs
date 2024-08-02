@@ -4,5 +4,5 @@
 
 | Prop Name | Type | Description |
 | --------------------- | ------ | ------------------- |
-| contents | string | Data inside the file. |
-| filename | string | File name. |
+| contents | string | Data inside the file |
+| filename | string | File name |
