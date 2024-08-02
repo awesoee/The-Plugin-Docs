@@ -7,19 +7,19 @@
 ## IMetadataDefinitionColorFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
-| type | `'COLOR'` | |
+| type | `'COLOR'` | ![ColorExample](https://github.com/user-attachments/assets/828b3e94-4492-4bae-81f8-2d61dbef0a36)|
 | defaultValue | string | |
 
 ## IMetadataDefinitionIntegerFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
-| type | `'INTEGER'` | |
+| type | `'INTEGER'` | ![image](https://github.com/user-attachments/assets/0966dbd7-08c7-4590-89a4-68d43ffd2e1b)|
 | defaultValue | number | |
 
 ## IMetadataDefinitionFloatFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
-| type | `'FLOAT'` | |
+| type | `'FLOAT'` | ![image](https://github.com/user-attachments/assets/7332c6be-2f31-4dec-8531-7930fe64e8bc)|
 | defaultValue | number | |
 
 ## IMetadataDefinitionTextFieldData
@@ -37,12 +37,12 @@
 ## IMetadataDefinitionTagsFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
-| type | `'TAGS'` | |
+| type | `'TAGS'` | ![image](https://github.com/user-attachments/assets/90ce2881-ac28-4be1-bb74-b7d086dc71da)|
 | defaultValue | string[] | |
 
 ## IMetadataDefinitionDropdownFieldData
 | Prop Name | Type | Image |
 |--------------|----------|--------------|
-| type | `'DROPDOWN'` |
+| type | `'DROPDOWN'` | ![image](https://github.com/user-attachments/assets/fe2131e1-8c4d-4d83-a253-1346d1bb622f) |
 | defaultValue | any | |
 | options | IMetadataDefinitionDropdownFieldDataOptions<any>[] | |
