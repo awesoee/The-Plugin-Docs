@@ -1,4 +1,4 @@
-Manifest JSON structure
+**_Manifest JSON structure_**
 
 ## Properties
 
