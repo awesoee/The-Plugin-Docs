@@ -4,4 +4,4 @@
 | --------------------- | ------ | ------------------- |
 | metadataOwnerTypes | [MetadataOwnerTypes[]](/Documentation/MetadataPlugin/MetadataOwnerTypes.md) | |
 | fields | [MetadataDefinitionFieldDataTypes[]](/Documentation/MetadataPlugin/MetadataDefinitionFieldDataTypes.md) | Same with these |
-| effects | [IMetadataDefinitionEffect[]](Documentation/MetadataPlugin/IMetadataDefinitionEffect.md) |  |
+| effects | [IMetadataDefinitionEffect[]](/Documentation/MetadataPlugin/IMetadataDefinitionEffect.md) |  |
