@@ -12,8 +12,6 @@
 
 <br/>
 
-### ILibraryAssetMetadata visualized: (note that Palette Map is actually a part of ISpriteEntityAssetMetadata)
-
 ![image](https://github.com/user-attachments/assets/49874657-258e-4d0f-a8dc-fae3dcbaf357)
 
 
