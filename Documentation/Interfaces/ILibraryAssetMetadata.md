@@ -8,7 +8,7 @@
 | export | boolean | Whether or not it can be exported(?) |
 | tags | string[] | Asset tags, if any |
 | plugins | string[] | Manifest.JSON `'id'` of enabled plugins |
-| pluginMetadata | {[pluginKey:string]: any} | Plugin metadata affecting the asset (ex. Object Type) |
+| pluginMetadata | {[pluginKey: string]: any} | Plugin metadata affecting the asset (ex. Object Type) |
 
 <br/>
 
