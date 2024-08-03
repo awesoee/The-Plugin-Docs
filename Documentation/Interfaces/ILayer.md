@@ -1,6 +1,6 @@
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | $id | string | GUID of layer |
 | name | string |  |

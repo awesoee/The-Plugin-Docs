@@ -2,7 +2,7 @@
 
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | version | string | Version number of plugin. |
 | type | string AND/OR FraytoolsPluginTypes | `'MetadataDefinitionPlugin'` `'PublishPlugin'` `'ScriptAssetPlugin'` `'TypeDefinitionPlugin'`|

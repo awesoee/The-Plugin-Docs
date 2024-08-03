@@ -1,6 +1,6 @@
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | $id | string | GUID of the animation |
 | name | string | Name of animation  |

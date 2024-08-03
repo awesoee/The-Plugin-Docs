@@ -1,8 +1,8 @@
-This is an extension of [IKeyframe.](/Documentation/Interfaces/IKeyframe.md)
+This is an extension of [IBaseSymbolKeyframe.](/Documentation/Interfaces/IBaseSymbolKeyframe.md)
 
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | symbol | string | GUID of connected symbol. Set to `null` if keyframe is blank. |
 | type | `'LINE_SEGMENT'` | |

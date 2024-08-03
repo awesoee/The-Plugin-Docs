@@ -1,6 +1,6 @@
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | version | number | Version of .meta file, usually 1 |
 | id | string | ID of asset |

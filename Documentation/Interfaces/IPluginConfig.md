@@ -2,6 +2,6 @@
 
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | version | string | Version number of plugin |

@@ -1,6 +1,6 @@
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | metadataOwnerTypes | [MetadataOwnerTypes[]](/Documentation/MetadataPlugin/MetadataOwnerTypes.md) | |
 | fields | [MetadataDefinitionFieldDataTypes[]](/Documentation/MetadataPlugin/MetadataDefinitionFieldDataTypes.md) | |

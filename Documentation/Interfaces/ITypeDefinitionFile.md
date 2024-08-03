@@ -2,7 +2,7 @@
 
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | contents | string | Data inside the file |
 | filename | string | File name |

@@ -1,6 +1,6 @@
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | inputField | string | The `name` of the field |
 | inputValue | any | The value to be inputted |

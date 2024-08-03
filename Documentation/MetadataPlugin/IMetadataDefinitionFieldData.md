@@ -1,6 +1,6 @@
 ## Properties
 
-| Prop Name | Type | Description |
+| Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
 | name | string | Internal name used to identify the field |
 | label | string | Name that will be displayed on Properties panel |

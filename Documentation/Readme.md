@@ -28,6 +28,7 @@
   - [ITileMapLayer](/Documentation/Interfaces/ITileMapLayer.md)
 
   ### Keyframes
+  - [IBaseSymbolKeyframe](/Documentation/Interfaces/IBaseSymbolKeyframe.md)
   - [ICollisionBodyKeyframe](/Documentation/Interfaces/ICollisionBodyKeyframe.md)
   - [ICollisionBoxKeyframe](/Documentation/Interfaces/ICollisionBoxKeyframe.md)
   - [IContainerKeyframe](/Documentation/Interfaces/IContainerKeyframe.md)
