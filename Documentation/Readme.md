@@ -27,7 +27,7 @@
   - [IPolygonLayer](/Documentation/Interfaces/IPolygonLayer.md)
   - [ITileMapLayer](/Documentation/Interfaces/ITileMapLayer.md)
 
-  ### Keyframes
+### Keyframes
   - [IBaseSymbolKeyframe](/Documentation/Interfaces/IBaseSymbolKeyframe.md)
   - [ICollisionBodyKeyframe](/Documentation/Interfaces/ICollisionBodyKeyframe.md)
   - [ICollisionBoxKeyframe](/Documentation/Interfaces/ICollisionBoxKeyframe.md)
@@ -40,4 +40,7 @@
   - [IPointKeyframe](/Documentation/Interfaces/IPointKeyframe.md)
   - [IPolygonKeyframe](/Documentation/Interfaces/IPolygonKeyframe.md)
   - [ITileMapKeyframe](/Documentation/Interfaces/ITileMapKeyframe.md)
+
+### Symbols
+
 
