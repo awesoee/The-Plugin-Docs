@@ -14,7 +14,7 @@ For these demonstrations, I'll be using the [example metadata plugin.](https://g
 ### In VS Code, navigate to static/manifest.json.
 ![image](https://github.com/user-attachments/assets/414802d5-4e4c-43ef-b910-2db9cb039fb0) <br/>
 
-You can learn more about what each property does by [clicking here.](/Documentation/Interfaces/IManifestJSON.md)
+You can learn more about each property by [clicking here.](/Documentation/Interfaces/IManifestJSON.md)
 
 ### Change the `id` and `name`.
 
@@ -35,3 +35,14 @@ You can also change the `description` if you want. <br/>
 
 ![image](https://github.com/user-attachments/assets/b42f05d0-887a-455e-9f99-923a7bdd275f)
 
+### Click Save.
+
+![image](https://github.com/user-attachments/assets/fa1778a0-c6e2-4e4a-81a9-9da4c6f56dc1)
+
+If you close and reopen the Plugin Manager, you should see your changes apply instantly if you ran `npm run dev`.
+
+![image](https://github.com/user-attachments/assets/a1bcfe9c-b989-496a-af47-d8c05e36769d)
+
+## Customizing The Config Menu
+
+### 
