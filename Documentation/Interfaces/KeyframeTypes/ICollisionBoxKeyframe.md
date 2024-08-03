@@ -1,4 +1,4 @@
-This is an extension of [IBaseSymbolKeyframe.](/Documentation/Interfaces/IBaseSymbolKeyframe.md)
+This is an extension of **[IBaseSymbolKeyframe.](/Documentation/Interfaces/IBaseSymbolKeyframe.md)**
 
 ## Properties
 
