@@ -1,0 +1,1 @@
+This is identical to **[ILibraryAssetMetadata.](/Documentation/Interfaces/ILibraryAssetMetadata.md)**
