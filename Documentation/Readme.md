@@ -42,5 +42,18 @@
   - [ITileMapKeyframe](/Documentation/Interfaces/ITileMapKeyframe.md)
 
 ### Symbols
-
+  - [IBaseSymbol](/Documentation/Interfaces/IBaseSymbol.md)
+  - [ICollisionBodySymbol](/Documentation/Interfaces/ICollisionBodySymbol.md)
+  - [ICollisionBoxSymbol](/Documentation/Interfaces/ICollisionBoxSymbol.md)
+  - [IColorableSymbol](/Documentation/Interfaces/IColorableSymbol.md)
+  - [IImageSymbol](/Documentation/Interfaces/IImageSymbol.md)
+  - [ILineSegmentSymbol](/Documentation/Interfaces/ILineSegmentSymbol.md)
+  - [IPivotableSymbol](/Documentation/Interfaces/IPivotableSymbol.md)
+  - [IPointArraySymbol](/Documentation/Interfaces/IPointArraySymbol.md)
+  - [IPointSymbol](/Documentation/Interfaces/IPointSymbol.md)
+  - [IPolygonSymbol](/Documentation/Interfaces/IPolygonSymbol.md)
+  - [IRotatableSymbol](/Documentation/Interfaces/IRotatableSymbol.md)
+  - [IScalableSymbol](/Documentation/Interfaces/IScalableSymbol.md)
+  - [ITileMapSymbol](/Documentation/Interfaces/ITileMapSymbol.md)
+  - [ITranslatableSymbol](/Documentation/Interfaces/ITranslatableSymbol.md)
 
