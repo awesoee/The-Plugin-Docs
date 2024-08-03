@@ -9,4 +9,4 @@ This is an extension of [IBaseSymbol](/Documentation/Interfaces/IBaseSymbol.md) 
 | foot | number | Y coordinate of bottommost point of the collision body|
 | hipWidth | number | Amount of X units between leftmost point and rightmost point |
 | hipXOffset | number | Amount of X units the hip's midpoint is offset from the midpoint of the head and foot. <br/> Positive = to the right, Negative = to the left |
-| hipYOffset | number | Amount of Y units the hip's midpoint is offset from the midpoint of the head and foot. Positive = closer to the feet, Negative = closer to the head|
+| hipYOffset | number | Amount of Y units the hip's midpoint is offset from the midpoint of the head and foot. <br/> Positive = closer to the feet, Negative = closer to the head|
