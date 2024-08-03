@@ -1,4 +1,4 @@
-This is an extension of [IRotatableSymbol.](/Documentation/Interfaces/IRotatableSymbol.md)
+This is an extension of **[IRotatableSymbol.](/Documentation/Interfaces/IRotatableSymbol.md)**
 
 ## Properties
 
