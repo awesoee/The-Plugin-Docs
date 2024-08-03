@@ -18,8 +18,8 @@ _**To sync plugin configuration data that should persist between sessions to the
 
 | Function Name | Description |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| componentDidMount() | Ill add info once i learn more about this |
-| componentWillUnmount() | |
-| onMetadataDefinitionRequest() | Not implemented. |
-| onAssetMetadataMigrationRequest() | Not implemented. |
-| onPropsUpdated(props:[IMetadataDefinitionPluginProps](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginProps.md)) | Override this with custom behavior |
+| componentDidMount() | Sets up **propsReceivedHandler**, **metadataDefinitionRequestHandler**, and **assetMetadataMigrationRequestHandler**. Once done, calls the **sendReady()** function to tell the window that the plugin has been mounted. |
+| componentWillUnmount() | Sets **propsReceivedHandler**, **metadataDefinitionRequestHandler**, and **assetMetadataMigrationRequestHandler** to `null`. |
+| onMetadataDefinitionRequest() | ![image](https://github.com/user-attachments/assets/e8febf30-238b-452b-a83b-754149f8b64f) |
+| onAssetMetadataMigrationRequest() | ![image](https://github.com/user-attachments/assets/559d8e8e-08e1-4f8e-84ad-529febcb4635) |
+| onPropsUpdated(props:**[IMetadataDefinitionPluginProps](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginProps.md)**) | Override this with custom behavior. |
