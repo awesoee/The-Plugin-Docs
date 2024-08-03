@@ -1,4 +1,4 @@
-**This class is an extension of [IPublishPluginProps](/Documentation/PublishPlugin/BasePublishPlugin/IPublishPluginProps.md) and [IPublishPluginState.](/Documentation/PublishPlugin/BasePublishPlugin/IPublishPluginState.md)**
+**This class is an extension of [IPublishPluginProps](/BasePublishPlugin/IPublishPluginProps.md) and [IPublishPluginState.](/Documentation/PublishPlugin/BasePublishPlugin/IPublishPluginState.md)**
 
 <br/>
 
@@ -23,4 +23,4 @@ _**To inform the parent window that it's time to publish, use FrayToolsPluginCor
 | componentDidMount() | |
 | componentWillUnmount() | |
 | onForcePublishRequest() | Not implemented. |
-| onPropsUpdated(props:**[IPublishPluginProps](/Documentation/PublishPlugin/BasePublishPlugin/IPublishPluginProps.md)**) | Override this with custom behavior |
+| onPropsUpdated(props:**[IPublishPluginProps](/BasePublishPlugin/IPublishPluginProps.md)**) | Override this with custom behavior |
