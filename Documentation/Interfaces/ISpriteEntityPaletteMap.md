@@ -2,5 +2,5 @@
 
 | Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
-| paletteCollection | string | .palettes file |
+| paletteCollection | string | Name of .palettes file |
 | paletteMap | string | Name of palette map |
