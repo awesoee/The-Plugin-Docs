@@ -1,4 +1,4 @@
-This is an extension of [IKeyframe.](/Documentation/Interfaces/IKeyframe.md)
+This is an extension of **[IKeyframe.](/Documentation/Interfaces/IKeyframe.md)**
 
 ## Properties
 
