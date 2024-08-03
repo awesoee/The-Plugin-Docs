@@ -2,4 +2,8 @@
 
 | Prop Name | Value | Description |
 | --------------------- | ------ | ------------------- |
-| points | number[] | |
+| points | number[] | Contains pairs of X and Y coordinates. |
+
+<br/>
+
+![image](https://github.com/user-attachments/assets/a3f004c1-a7ce-493c-80f5-c6e23f2361c3)
