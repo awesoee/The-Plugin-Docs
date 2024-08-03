@@ -20,7 +20,7 @@ _**To inform the parent window that it's time to publish, use FrayToolsPluginCor
 
 | Function Name | Description |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| componentDidMount() | |
-| componentWillUnmount() | |
-| onForcePublishRequest() | Not implemented. |
+| componentDidMount() | Sets up **propsReceivedHandler** and **forcePublishRequestHandler**, then calls the **sendReady()** function to tell the window that the plugin has been mounted.  |
+| componentWillUnmount() | Sets **propsReceivedHandler** and **forcePublishRequestHandler** to `null`. |
+| onForcePublishRequest(): void | ![image](https://github.com/user-attachments/assets/ce944aa4-f7dc-4453-a4fd-18c226bdaa7a) |
 | onPropsUpdated(props:**[IPublishPluginProps](/Documentation/PublishPlugin/BasePublishPlugin/IPublishPluginProps.md)**) | Override this with custom behavior |
