@@ -11,8 +11,9 @@
   - [IMetadataDefinitionPluginProps](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginProps.md)
   - [IMetadataDefinitionPluginState](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/IMetadataDefinitionPluginState.md)
   - [MetadataOwnerTypes](/Documentation/MetadataPlugin/MetadataOwnerTypes.md)
-### Script Asset
 ### Publish
+  - [BasePublishPlugin]
+### Script Asset
 ### Types
 ### Layers
   - [ICollisionBodyLayer](/Documentation/Interfaces/LayerTypes/ICollisionBodyLayer.md)
