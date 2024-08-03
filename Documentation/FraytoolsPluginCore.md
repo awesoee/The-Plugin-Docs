@@ -1,3 +1,8 @@
+## Variables
+| Variable Name | Description |
+| --------------------- | --------------------------------- |
+| PLUGIN_CONFIG_METADATA_DEFAULTS | {} as any |
+
 ## Functions
 
 | Function Name | Description |
