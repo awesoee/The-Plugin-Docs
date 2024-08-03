@@ -5,7 +5,7 @@ This is an extension of [ILayer](/Documentation/Interfaces/ILayer.md).
 | Prop Name | Type | Description |
 | --------------------- | ------ | ------------------- |
 | type | `'TILEMAP'` |  |
-| keyframes | string[] | Contains UUIDs of keyframes within the layer |
+| keyframes | string[] | Contains GUIDs of keyframes within the layer |
 | x | number |  |
 | y | number |  |
 | width | number |  |

@@ -5,4 +5,4 @@ This is an extension of [ILayer](/Documentation/Interfaces/ILayer.md).
 | Prop Name | Type | Description |
 | --------------------- | ------ | ------------------- |
 | type | `'POLYGON'` |  |
-| keyframes | string[] | Contains UUIDs of keyframes within the layer |
+| keyframes | string[] | Contains GUIDs of keyframes within the layer |

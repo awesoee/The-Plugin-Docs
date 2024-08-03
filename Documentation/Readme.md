@@ -1,5 +1,11 @@
 # FrayTools Plugin Core Documentation
 
+## Metadata
+  - [IMetadataDefinition](/The%20Plugin%20Core/Interfaces/IMetadataDefinition.md)
+## Script Asset
+## Publish
+## Types
+
 ### Metadata
   - [BaseMetadataDefinitionPlugin](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/BaseMetadataDefinitionPlugin.md)
   - [IMetadataConditional](/Documentation/MetadataPlugin/IMetadataConditional.md)
@@ -26,3 +32,17 @@
   - [IPointLayer](/Documentation/Interfaces/IPointLayer.md)
   - [IPolygonLayer](/Documentation/Interfaces/IPolygonLayer.md)
   - [ITileMapLayer](/Documentation/Interfaces/ITileMapLayer.md)
+
+  ### Keyframes
+  - [ICollisionBodyKeyframe](/Documentation/Interfaces/ICollisionBodyKeyframe.md)
+  - [ICollisionBoxKeyframe](/Documentation/Interfaces/ICollisionBoxKeyframe.md)
+  - [IContainerKeyframe](/Documentation/Interfaces/IContainerKeyframe.md)
+  - [IFrameScriptKeyframe](/Documentation/Interfaces/IFrameScriptKeyframe.md)
+  - [IImageKeyframe](/Documentation/Interfaces/IImageKeyframe.md)
+  - [ILabelKeyframe](/Documentation/Interfaces/ILabelKeyframe.md)
+  - [IKeyframe](/Documentation/Interfaces/IKeyframe.md)
+  - [ILineSegmentKeyframe](/Documentation/Interfaces/ILineSegmentKeyframe.md)
+  - [IPointKeyframe](/Documentation/Interfaces/IPointKeyframe.md)
+  - [IPolygonKeyframe](/Documentation/Interfaces/IPolygonKeyframe.md)
+  - [ITileMapKeyframe](/Documentation/Interfaces/ITileMapKeyframe.md)
+
