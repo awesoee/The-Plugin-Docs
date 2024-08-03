@@ -1,4 +1,4 @@
-This is an extension of [ILayer](/Documentation/Interfaces/ILayer.md). 
+This is an extension of **[ILayer](/Documentation/Interfaces/ILayer.md). **
 
 ## Properties
 
