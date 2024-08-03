@@ -45,4 +45,4 @@
 |--------------|----------|--------------|
 | type | `'DROPDOWN'` | ![image](https://github.com/user-attachments/assets/fe2131e1-8c4d-4d83-a253-1346d1bb622f) |
 | defaultValue | any | |
-| options | IMetadataDefinitionDropdownFieldDataOptions<any>[] | |
+| options | [IMetadataDefinitionDropdownFieldDataOptions<any>[]](/Documentation/MetadataPlugin/IMetadataDefinitionDropdownFieldDataOptions.md) | |
