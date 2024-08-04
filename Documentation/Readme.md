@@ -86,9 +86,16 @@
   - [IScriptAssetMetadata](/Documentation/Interfaces/IScriptAssetMetadata.md)
   - [ISpriteEntityAssetMetadata](/Documentation/Interfaces/ISpriteEntityAssetMetadata.md)
 
+### Utils
+  - [ByteUtil](/Documentation/Util/ByteUtil.md)
+  - [MathUtil](/Documentation/Util/MathUtil.md)
+  - [SpriteUtil](/Documentation/Util/SpriteUtil.md)
+  - [TweenUtil](/Documentation/Util/TweenUtil.md)
+
 ### Misc.
   - [FraytoolsPluginCore](/Documentation/FraytoolsPluginCore.md)
   - [IManifestJSON](/Documentation/Interfaces/IManifestJSON.md)
   - [IPluginConfig](/Documentation/Interfaces/IPluginConfig.md)
   - [ISpriteAnimation](/Documentation/Interfaces/ISpriteAnimation.md)
+  - [List of all Symbol Types](/Documentation/Interfaces/List-of-all-Symbol-Types.md)
 
