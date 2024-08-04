@@ -2,7 +2,8 @@
 
   ## _Beginner Tutorials_
 * [Creating your first plugin](/Tutorials/Tutorial.md)
-* [SOON] Updating your MANIFEST.JSON + Customizing your Config menu
+* [Updating your MANIFEST.JSON + Renaming your plugin](/Tutorials/ManifestJSONGuide.md)
+* [SOON] Customizing your Config menu
 * [SOON] The Four Plugin Types
 
 <br/>
