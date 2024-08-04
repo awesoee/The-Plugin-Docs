@@ -15,7 +15,7 @@
 | sendMetadataDefinitions(metadataDefinitions: **[IMetadataDefinition[]](/Documentation/MetadataPlugin/IMetadataDefinition.md)**) | |
 | sendAssetMetadataMigrations(assetMetadata: **[ILibraryAssetMetadata](/Documentation/Interfaces/ILibraryAssetMetadata.md)**) | |
 | sendPublishStart() | |
-| sendPublishEnd(files: PublishPluginMessageDataFilesMap) | |
+| sendPublishEnd(files: PublishPluginMessageDataFilesMap) |  ![image](https://github.com/user-attachments/assets/4fed9277-cc33-4ab2-be41-917244e298c3) |
 | sendPublishError(message: string) | |
 
 ## Arrow Functions
