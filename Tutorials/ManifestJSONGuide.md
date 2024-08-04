@@ -16,8 +16,6 @@ For these demonstrations, I'll be using the [example metadata plugin.](https://g
 
 You can learn more about each property by [clicking here.](/Documentation/Interfaces/IManifestJSON.md)
 
-<br/>
- 
 ### Change the `id` and `name`.
 
 ![image](https://github.com/user-attachments/assets/499ecde9-83c1-4fc3-a965-13970e6aadb4) <br/>
@@ -25,22 +23,16 @@ You can learn more about each property by [clicking here.](/Documentation/Interf
 You can also change the `description` if you want. <br/>
 **Do not change the `type` property.**
 
-<br/>
- 
 ### Right-click your manifest.json and click Save.
 
 ![image](https://github.com/user-attachments/assets/eb94efe5-9153-4b95-9cb5-cbec36d98c8f)
 
-<br/>
- 
 ### Open types.ts and update the pluginMetadata with your new `id`.
 
 Click Save when you're done.
 
 ![image](https://github.com/user-attachments/assets/efae6a7c-ad7c-4ab8-b98a-9a5f8dbae862)
 
-<br/>
- 
 ### Now, navigate to webpack.config.js.
 
 ![image](https://github.com/user-attachments/assets/b567e58f-905b-45b9-bdb4-5e46329f805c)
@@ -55,8 +47,6 @@ You should be getting used to saving by now.
 
 ![image](https://github.com/user-attachments/assets/fa1778a0-c6e2-4e4a-81a9-9da4c6f56dc1)
 
-<br/>
- 
 ### Open main.tsx.
 
 ![image](https://github.com/user-attachments/assets/aee9ac5f-a42c-49de-bd75-e459f1853c0d)
@@ -71,8 +61,6 @@ It should be on line 39. **Do not remove the period to the left.**
 
 ![image](https://github.com/user-attachments/assets/75667c7d-1196-4f72-b981-86ce4a6b8eb8)
 
-<br/>
- 
 ### Save everything.
 
 And now you're done!
