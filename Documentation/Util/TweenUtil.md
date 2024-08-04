@@ -1,0 +1,4 @@
+| Function Name | Description |
+| --------------------- | --------------------------------- |
+| interpolate(from:number, to:number, t:number, easeType:number) | Position easing utility that takes a "from" and a "to" point and calculates the points between the two based on time passed "t". |
+| calculateTweenedSymbolPosition(symbol:PivotableSymbolTypes&ScalableSymbolTypes, nextSymbol:PivotableSymbolTypes&ScalableSymbolTypes, interpolation:number, tweenType:TweenTypeValue) | Helper method for calcultating the proper position of a rotatable/pivotable symbol that's tweened. <br/><br/>   @param symbol The symbol on the current keyframe. <br/>   @param nextSymbol The symbol on the subsequent keyframe. <br/>   @param interpolation Interpolation percentage value (0-1.0). <br/>   @param tweenType The type of tween <br/>   @returns The correct x and y positions of the symbol after the tween interpolation is applied. |
