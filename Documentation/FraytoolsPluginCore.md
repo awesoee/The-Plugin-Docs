@@ -30,4 +30,3 @@
 | assetMetadataMigrationRequestHandler:() => void | Assign a callback to this field to handle a request for metadata migration data from the parent plugin. |
 | forcePublishRequestHandler:() => void | Assign a callback to this field to handle a request to force start a publish. |
 
->>>>>>> 6572eb50a9859ee171d2c3b89c49fe04e66a0056
