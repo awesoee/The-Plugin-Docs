@@ -3,7 +3,7 @@
 |--------------|----------|
 | `'SPRITE_ENTITY_ASSET_METADATA'` | ![image](https://github.com/user-attachments/assets/9e07f26a-6e67-444d-83d2-3d02886f2b97) |
 | `'SCRIPT_ASSET_METADATA'` | ![image](https://github.com/user-attachments/assets/5b6e5277-0d88-4de9-bcc1-5e3e2dc07aef) |
-| `'BINARY_ASSET_METADATA'` | ??? | 
+| `'BINARY_ASSET_METADATA'` | ![image](https://github.com/user-attachments/assets/46d92aa6-1c8c-4a3a-bd95-3cd12feb630e) | 
 | `'NINE_SLICE_ASSET_METADATA'` | ![image](https://github.com/user-attachments/assets/c611a015-a592-42c4-b8a4-b3549cc3cb03) | 
 | `'AUDIO_ASSET_METADATA'` | ![image](https://github.com/user-attachments/assets/548c63bd-4517-4c1f-ab06-2411d365db2b) |
 | `'IMAGE_ASSET_METADATA'` | ![image](https://github.com/user-attachments/assets/53ad36c3-f7fb-42d2-a388-85f61a792bfd) |
