@@ -69,7 +69,9 @@ If you close and reopen the Plugin Manager, you should see your changes apply in
 ![image](https://github.com/user-attachments/assets/a1bcfe9c-b989-496a-af47-d8c05e36769d)
 
 In the next tutorial, you're gonna learn how to make this menu look pretty:
+
 ![image](https://github.com/user-attachments/assets/d391c68d-948a-40a8-bd49-a0b1a1071e8e)
 
+<br/>
 
 ### [Next Guide: Customizing Your Config Menu](/Tutorials/ConfigMenuGuide.md)
