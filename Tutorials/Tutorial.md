@@ -76,5 +76,5 @@ It doesn't have any function at its current state. The next page will teach you 
 
 <br/>
 
-### [Next Guide: Updating your Manifest JSON + Config menu](/Tutorials/ManifestJSONGuide.md)
+### [Next Guide: Updating your Manifest JSON + Renaming your plugin](/Tutorials/ManifestJSONGuide.md)
 
