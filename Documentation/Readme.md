@@ -1,6 +1,6 @@
 # FrayTools Plugin Core Documentation
 
-### Metadata
+### Metadata 
   - [BaseMetadataDefinitionPlugin](/Documentation/MetadataPlugin/BaseMetadataDefinitionPlugin/BaseMetadataDefinitionPlugin.md)
   - [IMetadataConditional](/Documentation/MetadataPlugin/IMetadataConditional.md)
   - [IMetadataDefinition](/Documentation/MetadataPlugin/IMetadataDefinition.md)
