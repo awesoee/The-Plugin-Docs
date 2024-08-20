@@ -18,7 +18,7 @@ There are four plugin types natively supported by Fraytools:
 
 - You will need an IDE (Integrated Development Environment, basically code editor) to create plugins. I reccommend [Visual Studio Code.](https://code.visualstudio.com/)
 - Install the latest LTS version of [Node.js.](https://nodejs.org/en/)
-- Download one of my [upgraded example plugins.](https://github.com/awesoee/ts-types-plugin-example/tree/main)
+- Download one of my [upgraded example plugins.](https://github.com/awesoee/)
 
 <br/>
 
