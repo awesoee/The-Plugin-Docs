@@ -72,7 +72,7 @@ The directory should look something like this:
 
 Tadaaaa!!! You created your first plugin. You'll see that your plugin has its own config menu in the Plugin Settings section.
 ![image](https://github.com/user-attachments/assets/5299b725-225d-478c-9bcd-302d039024f0)
-It doesn't have any function at its current state. The next page will teach you how to customize and make it look pretty.
+It doesn't have any function at its current state. The next page will teach you how to customize it.
 
 <br/>
 
