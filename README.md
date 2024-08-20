@@ -16,10 +16,6 @@
 
   ## _Advanced Tutorials_
 
-  ## _Expert Tutorials_
 
-* Making your own modded FrayTools / Extracting app.asar
-* Understanding FrayTools
-* Creating your own development kit + custom plugin types
 
 
