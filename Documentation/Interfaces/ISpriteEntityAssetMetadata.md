@@ -10,6 +10,7 @@ This is an extension of **[ILibraryAssetMetadata.](/Documentation/Interfaces/ILi
 | symbols | **[BaseSymbolTypes[]](/Documentation/Interfaces/BaseSymbolTypes/)** | |
 | paletteMap | **[ISpriteEntityPaletteMap](/Documentation/Interfaces/ISpriteEntityPaletteMap.md)** | |
 
-![SpriteEntityAssetMetadata](https://github.com/user-attachments/assets/bc9be02d-2780-414a-9263-b7361f84739b)
+![SpriteEntityAssetMetadata](https://github.com/user-attachments/assets/b7278bb4-8323-4603-bd3a-d8d6ddd271b6)
+
 
 
