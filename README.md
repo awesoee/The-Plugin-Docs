@@ -4,7 +4,7 @@
 * [Creating your first plugin](https://github.com/awesoee/The-Plugin-Docs/wiki/%F0%9F%93%97-1%E2%80%901-Tutorial)
 * [Updating your MANIFEST.JSON + Renaming your plugin](https://github.com/awesoee/The-Plugin-Docs/wiki/%F0%9F%93%97-1%E2%80%902-Updating-MANIFEST.JSON)
 * [Customizing your Config menu](https://github.com/awesoee/The-Plugin-Docs/wiki/%F0%9F%93%97-1%E2%80%903-Customizing-the-Config-Menu)
-* [SOON] The Four Plugin Types
+* [WHENEVER I RESUME THIS PROJECT] The Four Plugin Types
 
 <br/>
   
