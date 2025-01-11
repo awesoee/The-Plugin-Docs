@@ -5,7 +5,7 @@
 | version | number | Version of .meta file, usually 1 |
 | id | string | ID of asset |
 | guid | string | GUID of .meta file |
-| export | boolean | Whether or not it can be exported(?) |
+| export | boolean | Whether or not the asset will be included in publish |
 | tags | string[] | Asset tags, if any |
 | plugins | string[] | Manifest.JSON `'id'` of enabled plugins |
 | pluginMetadata | {[pluginKey: string]: any} | Plugin metadata affecting the asset (ex. Object Type) |
